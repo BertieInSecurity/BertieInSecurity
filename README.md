@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BertieInSecurity
 - 👀 I’m interested in all things security!
-- 📫 How to reach me @bertie_in_security on Twitter!
+- 📫 How to reach me @bertie_in_sec on Twitter!
 
 I am an Application Security Engineer for a MAGA Big Tech company based in the UK,
 and I have over 6 years of experience working in Cybersecurity (I’m still pretty new).
